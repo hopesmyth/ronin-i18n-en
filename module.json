@@ -1,0 +1,33 @@
+{
+  "id": "ronin-i18n-en",
+  "title": "RŌNIN - Language Conversion for MÖRK BORG (EN)",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "morkborg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "languages": [
+    {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    }
+  ],
+  "description": "English Localisation strings for playing RONIN via MORK BORG module.\n\nFor use with morkborg-foundry-vtt by Matthew McGlincy. https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt\n\nRōnin is copyright © Slightly Reckless Games LTD.",
+  "authors": [
+    {
+      "name": "Hope Smith",
+      "discord": ".hopes",
+      "flags": {}
+    }
+  ]
+}
