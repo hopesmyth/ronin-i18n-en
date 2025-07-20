@@ -29,5 +29,8 @@
       "discord": ".hopes",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/hopesmyth/ronin-i18n-en",
+  "manifest": "https://github.com/hopesmyth/ronin-i18n-en/releases/latest/download/module.zip",
+  "download": "https://github.com/hopesmyth/ronin-i18n-en/releases/latest/download/module.json"
 }
